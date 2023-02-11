@@ -8,43 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "095437bbc62b2ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/FlowCharts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3558c6bff7b351a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/basic flowchart terminologies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe9d16d8e50ea51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/Calculator.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05943c2a2fd5ab45",
+            "id": "1edfaca472453961",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,50 +20,31 @@
             }
           },
           {
-            "id": "10ea2b4d83a20837",
+            "id": "ce210a508c19171a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture1/What in C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7d92deca5b7deffa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9c67b6170c61c4c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/README.md",
+                "file": "lecture1/Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "95e1e6c8413ddc32",
+            "id": "fae323fdf36b29aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture1/Programming.md",
+                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "45008c6f50cda444",
@@ -165,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture1/Programming.md",
+                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture1/Programming.md",
+                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture1/Programming.md"
+                "file": "lecture1/print all the factors of N (N is a number entered by user).md"
               }
             }
           },
@@ -245,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95e1e6c8413ddc32",
+  "active": "fae323fdf36b29aa",
   "lastOpenFiles": [
-    "lecture1/README.md",
-    "lecture1/basic flowchart terminologies.md",
-    "lecture1/FlowCharts.md",
+    "lecture1/Basic pseudo code Terminologies.md",
     "lecture1/PseudoCode.md",
-    "lecture1/sum of two no.s.md",
+    "lecture1/README.md",
+    "lecture1/sum of 2 no.s.md",
     "lecture1/Algorithm.md",
+    "lecture1/print all the factors of N (N is a number entered by user).md",
+    "lecture1/print the no.s between 1 to 100 divisible by 2 & 3, else print NO.md",
+    "lecture1/print the no.s between 1 to 100 divisible by 2.md",
     "lecture1/Calculator.md",
-    "lecture1/sum of 10 no.s.md",
-    "lecture1/What in C++.md",
-    "lecture1/Programming.md"
+    "lecture1/divide 2 no.s.md"
   ]
 }

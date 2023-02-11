@@ -1,0 +1,2 @@
+- symbols (+, -, /, *)
+- certain keywords: PRINT/DISPLAY, WRITE, SET. 

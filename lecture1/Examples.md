@@ -11,4 +11,4 @@ Python Machine Learning, assembly, scripts, data analytics, backend
 
 Java, android apps, backend.
 
-C++ Game development.
+C/C++ : Game development.
