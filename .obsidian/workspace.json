@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "048511114adc871b",
+        "id": "0818d531c422d555",
         "type": "tabs",
         "children": [
           {
-            "id": "1edfaca472453961",
+            "id": "7f8e9c241a7d05ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/PseudoCode.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce210a508c19171a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fae323fdf36b29aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "45008c6f50cda444",
@@ -111,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture1/print all the factors of N (N is a number entered by user).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "lecture1/print all the factors of N (N is a number entered by user).md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,14 +157,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fae323fdf36b29aa",
+  "active": "7f8e9c241a7d05ac",
   "lastOpenFiles": [
+    "lecture1/print all the factors of N (N is a number entered by user).md",
     "lecture1/Basic pseudo code Terminologies.md",
     "lecture1/PseudoCode.md",
     "lecture1/README.md",
     "lecture1/sum of 2 no.s.md",
     "lecture1/Algorithm.md",
-    "lecture1/print all the factors of N (N is a number entered by user).md",
     "lecture1/print the no.s between 1 to 100 divisible by 2 & 3, else print NO.md",
     "lecture1/print the no.s between 1 to 100 divisible by 2.md",
     "lecture1/Calculator.md",
