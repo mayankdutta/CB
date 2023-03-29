@@ -11,8 +11,12 @@
             "id": "7f8e9c241a7d05ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. lecture/sum of 5 no.s.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. lecture/sum of 5 no.s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. lecture/sum of 5 no.s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. lecture/sum of 5 no.s.md"
+              }
             }
           },
           {
@@ -159,6 +167,26 @@
   },
   "active": "7f8e9c241a7d05ac",
   "lastOpenFiles": [
+    "1. lecture/sum of 2 no.s.md",
+    "1. lecture/Seriously C++.md",
+    "1. lecture/README.md",
+    "1. lecture/PseudoCode.md",
+    "1. lecture/Programming.md",
+    "1. lecture/print the no.s between 1 to 100 divisible by 2 & 3, else print NO.md",
+    "1. lecture/print the no.s between 1 to 100 divisible by 2.md",
+    "1. lecture/notes.md",
+    "1. lecture/print all the factors of N (N is a number entered by user).md",
+    "1. lecture/Examples.md",
+    "1. lecture/Calculator.md",
+    "1. lecture/Algorithm.md",
+    "1. lecture/basic flowchart terminologies.md",
+    "1. lecture/attachments/Screenshot 2023-02-09 at 3.25.32 PM.png",
+    "1. lecture/attachments/Pasted image 20230209154805.png",
+    "1. lecture/attachments/Pasted image 20230209144429.png",
+    "classLinks.md",
+    "1. lecture/attachments",
+    "1. lecture/sum of 5 no.s.md",
+    "1. lecture/FlowCharts.md",
     "lecture1/print all the factors of N (N is a number entered by user).md",
     "lecture1/Basic pseudo code Terminologies.md",
     "lecture1/PseudoCode.md",
