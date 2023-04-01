@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a3eab634a62779e",
+        "id": "581b80ea9daa36a7",
         "type": "tabs",
         "children": [
           {
-            "id": "082d6a88315ebd84",
+            "id": "0a3911a924f79089",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,7 +157,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "082d6a88315ebd84",
+  "active": "0a3911a924f79089",
   "lastOpenFiles": [
     "1. lecture/sum of 5 no.s.md",
     "1. lecture/sum of 2 no.s.md",
