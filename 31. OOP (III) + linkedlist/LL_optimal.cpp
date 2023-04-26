@@ -33,6 +33,8 @@ public:
 
       temp->next = head;
       head = temp;
+
+      delete temp;
     }
   }
 
@@ -43,6 +45,7 @@ public:
     temp->next = nullptr;
 
     temp->next = tail->next;
+
     tail->next = temp;
     tail = temp;
   }

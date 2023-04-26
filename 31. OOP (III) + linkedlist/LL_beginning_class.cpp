@@ -14,21 +14,21 @@ private:
   Node *head = nullptr;
 
 public:
-
   void add_at_end(int number) {
     Node *temp_node = new Node();
-    temp_node->next = nullptr; 
     temp_node->value = number;
+    temp_node->next = nullptr;
 
-    auto tail = head; 
+    auto tail = head;
+
     while (tail->next != nullptr) {
       tail = tail->next;
     }
 
     temp_node->next = tail->next;
+
     tail->next = temp_node;
   }
-
 
   void add(int number) {
     Node *temp_node = new Node();
